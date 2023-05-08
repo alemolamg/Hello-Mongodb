@@ -1,0 +1,17 @@
+{
+  "name": "hello-mongodb",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Pequeño repositorio donde realizo pruebas con MongoDB para aprender a usar esta base de datos NoSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
